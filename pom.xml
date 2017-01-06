@@ -131,6 +131,8 @@
 			<version>${mule.version}</version>
 			<scope>test</scope>
 		</dependency>
+		
+		
 	</dependencies>
 		<repositories>
           <repository>
